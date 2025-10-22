@@ -455,18 +455,3 @@ st.markdown("""
     </p>
 </div>
 """, unsafe_allow_html=True)
-```
-
-4. Scroll down and click **"Commit changes"**
-5. Click **"Commit changes"** again in the popup
-
----
-
-### STEP 3: Create `requirements.txt` file
-
-1. Click **"Add file"** → **"Create new file"** again
-2. In the "Name your file" box, type: `requirements.txt`
-3. **Copy and paste these 2 lines:**
-```
-streamlit==1.28.0
-pandas==2.1.0
